@@ -4,8 +4,8 @@
 - Linguagem DDL e Prática de banco.
 # [DDL](https://github.com/hqnicolas/DataBase-Level1-SQL/tree/main/DDL)
 - 
-- [README.md] Proposta de exercício DDL(https://github.com/hqnicolas/DataBase-Level1-SQL/tree/main/DDL)
-- [aula2-ex1.py ]Criação de Tabela(https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DDL/aula2-ex1.sh)
+- [README.md](https://github.com/hqnicolas/DataBase-Level1-SQL/tree/main/DDL) Proposta de exercício DDL
+- [aula2-ex1.py](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DDL/aula2-ex1.sh) Criação de Tabela
 
 
 
