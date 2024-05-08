@@ -1,4 +1,4 @@
-# Linguagem SQL (DML) Criação de Tabela, alteração e chaveamento
+# Linguagem SQL (DML) Criação de Tabela e alteração
 ![image](https://github.com/hqnicolas/DataBase-Level1-SQL/assets/41456803/ad5c43da-4459-424a-b7bb-59daf9eb0c82)
 - Criar as tabelas e seus relacionamentos com base no modelo ER.
 -  A coluna tp_questao da tabela questao deve ter uma check que aceite apenas os valores 0 e 1. Nós usaremos o 0 para
