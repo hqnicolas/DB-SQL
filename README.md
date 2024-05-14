@@ -10,6 +10,7 @@
 # [DML](https://github.com/hqnicolas/DataBase-Level1-SQL/tree/main/DML)
 
 - [README.md](https://github.com/hqnicolas/DataBase-Level1-SQL/tree/main/DML) Proposta de exercício DML
-- [aula2-ex1.sh ](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DML/aula3-ex1.sql) Criação de Tabela
+- [aula2-ex1.sh](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DML/aula3-ex1.sql) Criação de Tabela
+- [aula2-ex1-2.sh](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DML/aula3-ex1-2.sql) Incluindo dados na criação de Tabela
 
 
