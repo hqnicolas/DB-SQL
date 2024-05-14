@@ -81,7 +81,6 @@ insert into avaliacao_aluno (cd_avaliacao, cd_aluno, ds_avaliacao_aluno,
 dt_inicio, dt_fim)
 values (1, 2, 1,'2024-01-01', '2024-01-01');
 
-
 insert into resposta_aberta(cd_avaliacao, cd_aluno, cd_questao,	ds_resposta_aberta, dt_resposta )
 values (1, 1, 2, 'Resposta aberta','2024-01-01');
 
