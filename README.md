@@ -13,4 +13,20 @@
 - [aula2-ex1.sh](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DML/aula3-ex1.sql) Criação de Tabela
 - [aula2-ex1-2.sh](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DML/aula3-ex1-2.sql) Incluindo dados na criação de Tabela
 
+# [DQL](https://github.com/hqnicolas/DataBase-Level1-SQL/tree/main/DQL)
+
+- [aula4ex1.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/aula4ex1.sql) Criar tabela de clientes
+- [Aula4ex2.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex2.sql) seleção de cliente trazendo o código
+- [Aula4ex3.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex3.sql) seleção de cliente trazendo o código das cidades
+- [Aula4ex4.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex4.sql) seleção de clientes trazendo os clientes
+- [Aula4ex5.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex5.sql) seleção de clientes exibindo o complemento SEM COMPLEMENTO
+- [Aula4ex6.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex6.sql) clientes que estejam nas cidades 1 e 2
+- [Aula4ex7.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex7.sql) clientes que tenham nascido
+- [Aula4ex8.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex8.sql) clientes que estão com o complemento nulo
+- [Aula4ex9.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex9.sql) soma total da renda dos clientes da cidade 1
+- [Aula4ex10.sql ](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex10.sql) total de clientes por cidade
+- [Aula4ex11.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex11.sql) clientes que começam com a letra J
+
+
+
 
