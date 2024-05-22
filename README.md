@@ -26,7 +26,12 @@
 - [Aula4ex9.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex9.sql) soma total da renda dos clientes da cidade 1
 - [Aula4ex10.sql ](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex10.sql) total de clientes por cidade
 - [Aula4ex11.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex11.sql) clientes que começam com a letra J
-
+- [Aula5ex2.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/aula5ex2.sql) Criar tabela cliente.
+- [Aula5ex1.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/aula5ex1.sql) Inserir dois dependentes para cada cliente.
+- [Aula5ex3.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/aula5ex3.sql) Exibir uma lista de clientes com nome do cliente.
+- [Aula5ex4.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/aula5ex4.sql) Exibir uma lista de dependentes com o nome do dependente.
+- [Aula5ex5.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/aula5ex5.sql) Exibir uma lista com o nome e o total de 
+dependentes.
 
 
 
