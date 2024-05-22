@@ -19,7 +19,7 @@
 - [Aula4ex2.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex2.sql) seleção de cliente trazendo o código
 - [Aula4ex3.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex3.sql) seleção de cliente trazendo o código das cidades
 - [Aula4ex4.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex4.sql) seleção de clientes trazendo os clientes
-- [Aula4ex5.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex5.sql) seleção de clientes exibindo o complemento SEM COMPLEMENTO
+- [Aula4ex5.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex5.sql) seleção de clientes exibindo o complemento sem complemento
 - [Aula4ex6.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex6.sql) clientes que estejam nas cidades 1 e 2
 - [Aula4ex7.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex7.sql) clientes que tenham nascido
 - [Aula4ex8.sql](https://github.com/hqnicolas/DataBase-Level1-SQL/blob/main/DQL/Aula4ex8.sql) clientes que estão com o complemento nulo
