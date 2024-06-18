@@ -7,6 +7,9 @@ Alertas de estoque baixo: Para evitar faltas de produto, o sistema envia alertas
 Análise e previsão de demanda: O sistema incorpora ferramentas de análise estatística e aprendizado de máquina para identificar padrões de compra, tendências e ajustar as projeções de demanda em consequência.
 Com esses componentes interconectados, o sistema de gestão de estoque é capaz de automatizar os processos relacionados à gestão de estoques, economizando tempo, recursos e garantindo a eficiência operacional.
 
+![diagrama_conceitual](https://github.com/hqnicolas/DataBase-Level1-SQL/assets/41456803/68a82dbd-2fe2-4cd5-9b1b-382117e4e964)
+
+
 # Explicação das tabelas:
 Produtos: Armazena informações sobre os produtos, incluindo código de barras, descrição, preço, estoque inicial e previsão de demanda.
 Volume de estoque: Armazena a quantidade atual do produto em estoque para cada produto. O valor padrão é 0, pois o estoque pode ser inicializado com 0 se não houver informações sobre o estoque inicial.
@@ -15,3 +18,6 @@ Aviso de falta: Armazena os alertas de estoque baixo para cada produto, incluind
 Análise de demanda: Armazena as análises e previsões de demanda para cada produto, incluindo a previsão de demanda e a data da análise.
 As relações entre as tabelas são estabelecidas por meio das chaves estrangeiras. Por exemplo, a tabela “Volume de estoque” tem uma chave estrangeira que se refere à tabela Produtos, pois um produto pode ter vários estoques atualizados. De forma similar, a tabela “Alertas de estoque baixo” e “Análise de demanda” também têm chaves estrangeiras que se referem à tabela “Produtos”, pois os alertas e análises são realizados para cada produto específico.
 Espero que isso ajude! Se tiver alguma dúvida ou precisar de mais detalhes, basta perguntar.
+
+![modelo_fisico](https://github.com/hqnicolas/DataBase-Level1-SQL/assets/41456803/3450511e-1d06-4d2d-97ef-d6e07c2c5b3d)
+
