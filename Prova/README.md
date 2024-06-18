@@ -7,7 +7,7 @@ Alertas de estoque baixo: Para evitar faltas de produto, o sistema envia alertas
 Análise e previsão de demanda: O sistema incorpora ferramentas de análise estatística e aprendizado de máquina para identificar padrões de compra, tendências e ajustar as projeções de demanda em consequência.
 Com esses componentes interconectados, o sistema de gestão de estoque é capaz de automatizar os processos relacionados à gestão de estoques, economizando tempo, recursos e garantindo a eficiência operacional.
 
-![diagrama_conceitual](https://github.com/hqnicolas/DataBase-Level1-SQL/assets/41456803/a67f2555-ee63-4df2-92b6-558fc4049920)
+![diagrama_conceitual](https://github.com/hqnicolas/DataBase-Level1-SQL/assets/41456803/1ce66317-199a-4685-8b94-2ce3e23d7c6e)
 
 # Explicação das tabelas:
 Produtos: Armazena informações sobre os produtos, incluindo código de barras, descrição, preço, estoque inicial e previsão de demanda.
